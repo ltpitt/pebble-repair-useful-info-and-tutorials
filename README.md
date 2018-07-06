@@ -8,6 +8,9 @@ This repo was started by [Pebble Junkies](https://www.facebook.com/groups/pebble
 
 ## Release History
 
+* 0.0.2
+    * Added Pebble Steel - Buttons not responding fix
+
 * 0.0.1
     * First commit
 
