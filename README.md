@@ -1,4 +1,4 @@
-# pebble-repair-useful-info-and-tutorials
+# Pebble Repair Useful Info and Tutorials
 > This repo contains useful information and tutorials about how to fix your Pebble smartwatch.
 
 
